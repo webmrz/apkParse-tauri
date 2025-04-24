@@ -1,0 +1,241 @@
+MD5
+570049a5ea4cbd73d717404976f18715 
+SHA-1
+fc28f49e5a0b1f28a5cc9499d15a01fa5a462ac7 
+SHA-256
+79808231a0bf0f85c29453bc96c3d73f12fbb590792e749cb3ad96c5ba2e6753 
+Vhash
+70609e47438718c4b2f157ddb065fa5d 
+SSDEEP
+786432:zSeNNYyAR9/RraWdSwkAbYIJiNtKLrhh3:zjMN/RWwbbYeLH 
+TLSH
+T13E5733EBF749ED72F1F79736933A47572A198C848683F7471B45B01C4CBAAC04A49E88 
+Permhash
+3c6be045240a7ea79696a90fc81011ecb667b5387c9f96814d40fb1df35ebd46 
+File type
+Android 
+executable
+mobile
+android
+apk
+ 
+Magic
+Zip archive data, at least v2.0 to extract, compression method=deflate 
+TrID
+Android Package (49%)   Java Archive (24.5%)   Sweet Home 3D Design (generic) (19%)   ZIP compressed archive (7.2%) 
+Magika
+APK 
+File size
+26.01 MB (27274542 bytes)
+History
+First Submission
+2025-04-22 13:56:40 UTC 
+Last Submission
+2025-04-22 13:56:40 UTC 
+Last Analysis
+2025-04-22 13:56:40 UTC 
+Earliest Contents Modification
+2025-02-23 15:05:12 
+Latest Contents Modification
+2025-02-23 15:05:22
+Names
+__UNI__B02811F__20250223190154.apk
+Android Info
+Summary
+Android Type
+APK 
+Package Name
+ldjsc.app 
+Main Activity
+io.dcloud.PandoraEntry 
+Internal Version
+100 
+Displayed Version
+1.0.0 
+Minimum SDK Version
+19 
+Target SDK Version
+28
+Certificate Attributes
+Valid From
+2025-02-19 09:21:09 
+Valid To
+2125-01-26 09:21:09 
+Serial Number
+26333479 
+Thumbprint
+d4a1b17ce287c70ae2c284a34e3327b98155739f
+Certificate Subject
+Distinguished Name
+C:CN, CN:BJV9JpW9fQo0VrreSOiLko4Wkm1jyXggJFviGIxqIPWLbA16bH74fbbvRNPbLey0gQCSspHT52fw3ZkV%2FUxIVw%3D%3D, O:Android, OU:Android 
+Common Name
+BJV9JpW9fQo0VrreSOiLko4Wkm1jyXggJFviGIxqIPWLbA16bH74fbbvRNPbLey0gQCSspHT52fw3ZkV%2FUxIVw%3D%3D 
+Organization
+Android 
+Organizational Unit
+Android 
+Country Code
+CN
+Certificate Issuer
+Distinguished Name
+C:CN, CN:BJV9JpW9fQo0VrreSOiLko4Wkm1jyXggJFviGIxqIPWLbA16bH74fbbvRNPbLey0gQCSspHT52fw3ZkV%2FUxIVw%3D%3D, O:Android, OU:Android 
+Common Name
+BJV9JpW9fQo0VrreSOiLko4Wkm1jyXggJFviGIxqIPWLbA16bH74fbbvRNPbLey0gQCSspHT52fw3ZkV%2FUxIVw%3D%3D 
+Organization
+Android 
+Organizational Unit
+Android 
+Country Code
+CN
+Permissions
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.SEND_SMS
+android.permission.WRITE_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.READ_LOGS
+android.permission.REQUEST_INSTALL_PACKAGES
+android.permission.INSTALL_PACKAGES
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+com.huawei.android.launcher.permission.CHANGE_BADGE
+android.permission.INTERNET
+android.permission.READ_MEDIA_VIDEO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.READ_MEDIA_VISUAL_USER_SELECTED
+com.asus.msa.SupplementaryDID.ACCESS
+android.permission.READ_MEDIA_IMAGES
+android.permission.FLASHLIGHT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.CHANGE_WIFI_STATE
+com.vivo.notification.permission.BADGE_ICON
+Activities
+io.dcloud.PandoraEntry
+com.dmcbig.mediapicker.PickerActivity
+com.dmcbig.mediapicker.PreviewActivity
+io.dcloud.PandoraEntryActivity
+io.dcloud.ProcessMediator
+Services
+com.tencent.smtt.export.external.DexClassLoaderProviderService
+io.dcloud.sdk.base.service.DownloadService
+Receivers
+com.taobao.weex.WXGlobalEventReceiver
+Providers
+io.dcloud.common.util.DCloud_FileProvider
+io.dcloud.sdk.base.service.provider.DCloudAdFileProvider
+Intent Filters By Action
+android.intent.action.MAIN
+android.intent.action.VIEW
+Intent Filters By Category
+android.intent.category.LAUNCHER
+android.intent.category.DEFAULT
+android.intent.category.BROWSABLE
+Interesting Strings
+http://localhost
+http://schemas.android.com/apk/res/android
+http://www.android.com/
+https://ask.dcloud.net.cn/article/35627
+https://ask.dcloud.net.cn/article/35877
+https://er.dcloud.io/sc
+https://er.dcloud.net.cn/sc
+https://localhost
+Bundle Info
+Warnings
+Contains one or more Linux executables.
+Contents Metadata
+Contained Files
+835 
+Uncompressed Size
+61.79 MB 
+Earliest Content Modification
+2025-02-23 15:05:12 
+Latest Content Modification
+2025-02-23 15:05:22
+Contained Files By Type
+JAVASCRIPT
+1 
+JAVA BYTECODE
+1 
+OGG
+1 
+DEX
+2 
+JSON
+2 
+HTML
+2 
+GIF
+3 
+ELF
+36 
+UNKNOWN
+45 
+XML
+338 
+PNG
+404
+Contained Files By Extension
+RSA
+1 
+MESSAGEBODYWRITER
+1 
+TXT
+1 
+MESSAGEBODYREADER
+1 
+CSS
+1 
+BIN
+1 
+AUTODISCOVERABLE
+1 
+EXTERNALOVERRIDABILITYCONDITION
+1 
+OGG
+1 
+COROUTINEEXCEPTIONHANDLER
+1 
+MF
+1 
+ARSC
+1 
+BUILTINSLOADER
+1 
+MAINDISPATCHERFACTORY
+1 
+PROVIDERS
+1 
+SF
+1 
+GZ
+2 
+TTF
+2 
+HTML
+2 
+GIF
+3 
+DEX
+3 
+JSON
+5 
+KOTLIN_BUILTINS
+7 
+JS
+17 
+SO
+36 
+XML
+338 
+PNG
+404

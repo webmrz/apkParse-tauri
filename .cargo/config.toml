@@ -1,0 +1,8 @@
+[http]
+proxy = "127.0.0.1:7890"
+
+[https]
+proxy = "127.0.0.1:7890"
+
+[source.crates-io]
+registry = "https://github.com/rust-lang/crates.io-index" 
