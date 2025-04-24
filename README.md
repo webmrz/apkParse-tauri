@@ -10,6 +10,23 @@
 - 计算文件哈希值（MD5, SHA1, SHA256）
 - 自动检测并下载必要工具（aapt2）
 
+## 应用截图
+
+![首页](screenshots/home.png)
+*应用首页，支持拖拽或选择APK文件进行分析*
+
+![分析结果](screenshots/home-result.png)
+*APK分析结果展示页面*
+
+![历史记录](screenshots/history.png)
+*历史分析记录页面*
+
+![帮助页面](screenshots/help.png)
+*应用使用帮助页面*
+
+![设置页面](screenshots/setting.png)
+*应用设置页面*
+
 ## 技术栈
 
 - **前端**: Vue 3, TypeScript

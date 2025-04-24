@@ -1,7 +1,7 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
   "productName": "APK解析工具",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "identifier": "com.apk-parser.app",
   "build": {
     "beforeDevCommand": "pnpm dev",

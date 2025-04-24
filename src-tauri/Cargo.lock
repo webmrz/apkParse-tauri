@@ -4354,7 +4354,7 @@ dependencies = [
 
 [[package]]
 name = "tauri-apk-analyzer"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "android-manifest",
  "axmldecoder",

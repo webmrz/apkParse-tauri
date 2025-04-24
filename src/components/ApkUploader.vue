@@ -294,12 +294,7 @@ onMounted(() => {
       <div v-else-if="isUploading" class="uploader-loading">
         <el-icon class="uploader-icon spinning"><Loading /></el-icon>
         <div class="uploader-text">{{ statusMessage }}</div>
-        <el-progress 
-          :percentage="uploadProgress" 
-          :stroke-width="4" 
-          status="exception"
-          class="uploader-progress"
-        />
+        
         <el-button type="danger" @click="cancelUpload" size="small">
           取消
         </el-button>
